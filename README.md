@@ -1,8 +1,10 @@
-# Maurer Rose
+# Maurer Rose 
 
 <p align="center">
   <img alt="app screen shot" src=".github/preview.png" width='600'/>
 </p>
+
+[See demo](https://franciscoescastro.github.io/maurer-rose/)
 
 ## Description
 
